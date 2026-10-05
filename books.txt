@@ -1,2 +1,1 @@
-Title: Clean Code | Author: Robert C. Martin | Status: Available
-Title: Deep Learning | Author: Ian Goodfellow | Status: Issued
+Title: Clean Code (Special Edition)
