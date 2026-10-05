@@ -1,1 +1,2 @@
 Reminder 1: Check due dates.
+Reminder 2: Send email alerts.
